@@ -1,4 +1,4 @@
-# 
+# Nuevo LogSentinel kit de herramientas. Descarga e instala con modelos preconfigurados y interfaz amigable — rápido, seguro y fácil de usar.
 
 
 
